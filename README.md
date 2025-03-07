@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Liu</h1>
-🏫 I am a studnet studying Computer Science at Northeastern Univeristy
+🏫 I am a student studying Computer Science at Northeastern Univeristy
 <br>
 🌱 I am currently learning web devlopment in my own free time
 
